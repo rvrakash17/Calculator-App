@@ -58,4 +58,4 @@ To calculate
     Output: 11
 ```
 ## Author
-Akash R
+- Akash R
